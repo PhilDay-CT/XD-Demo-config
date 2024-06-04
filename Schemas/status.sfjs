@@ -1,6 +1,6 @@
-//sfSig:{"sig": "304502207a5cadb9f3767d4c5766c9ebb5ff0f41e325b8e65129c07d829a6a25a1d1aff3022100fefb01e218d0d20809b113bff6f6dd888d31fa537798fc96527ed3fc204ef76e", "certPEM": "-----BEGIN CERTIFICATE-----$!$MIIDEDCCAregAwIBAgIBATAKBggqhkjOPQQDAjBsMQswCQYDVQQGEwJVSzEfMB0G$!$A1UECgwWQ29uZmlndXJlZCBUaGluZ3MgTHRkLjENMAsGA1UECwwEY3R4ZDEOMAwG$!$A1UECwwFVXNlcnMxHTAbBgNVBAMMFGN0eGQtdXNlcnMtYWRtaW5zLWNhMB4XDTI0$!$MDYwMzExMTAwOFoXDTM0MDYwMTExMTAwOFowYDELMAkGA1UEBhMCVUsxHzAdBgNV$!$BAoMFkNvbmZpZ3VyZWQgVGhpbmdzIEx0ZC4xDTALBgNVBAsMBGN0eGQxDjAMBgNV$!$BAsMBVVzZXJzMREwDwYDVQQDDAhjdC1hZG1pbjBZMBMGByqGSM49AgEGCCqGSM49$!$AwEHA0IABCjZimd9RAx9mgCZqN/nulM9XbCW5LitXZEsB5q137/ni0oT+xP9++oN$!$thjf+ZHfqu17QxDYFH7ePBowqgSMvUajggFUMIIBUDCBjgYIKwYBBQUHAQEEgYEw$!$fzBFBggrBgEFBQcwAoY5aHR0cDovL2N0eGQtdXNlcnMtYWRtaW5zLWNhLmN0eGQv$!$Y3R4ZC11c2Vycy1hZG1pbnMtY2EuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2Nz$!$cC5jdHhkLXVzZXJzLWFkbWlucy1jYS5jdHhkOjkwODEwHwYDVR0jBBgwFoAUziKd$!$bNOAlDeXcUhjgD20RCV6hoMwDAYDVR0TAQH/BAIwADBKBgNVHR8EQzBBMD+gPaA7$!$hjlodHRwOi8vY3R4ZC11c2Vycy1hZG1pbnMtY2EuY3R4ZC9jdHhkLXVzZXJzLWFk$!$bWlucy1jYS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwIwDgYDVR0PAQH/BAQDAgeA$!$MB0GA1UdDgQWBBRkb39EsCNet9szaVNeBd7x3Pyx1jAKBggqhkjOPQQDAgNHADBE$!$AiAdEsPC7OHYro6q4gIUb4fczPjjrd7LU0WO8L8ieYzT2AIgOK8l1vDSO7DTcG8+$!$UNocCDsaTUX2mnhWXI4tZhJaRU8=$!$-----END CERTIFICATE-----$!$", "description": "", "timestamp":"1717431144350", "timelimit":"0"}
-//sfTimestamp:1717431144350
-//sfLabel:/opt/ct/signing/files/Schemas/status.sfjs
+//sfSig:{"sig": "304502205e00969326eae6cfc30bf8a0c7a7507aebe89654aaad3aae2e7f4101c55a3f2f022100f8fbc852add33a3c3dfb0f985bb68f8dfb7fa29990698580c76c9713ebf5f4c4", "certPEM": "-----BEGIN CERTIFICATE-----$!$MIIDEDCCAregAwIBAgIBATAKBggqhkjOPQQDAjBsMQswCQYDVQQGEwJVSzEfMB0G$!$A1UECgwWQ29uZmlndXJlZCBUaGluZ3MgTHRkLjENMAsGA1UECwwEY3R4ZDEOMAwG$!$A1UECwwFVXNlcnMxHTAbBgNVBAMMFGN0eGQtdXNlcnMtYWRtaW5zLWNhMB4XDTI0$!$MDYwMzExMTAwOFoXDTM0MDYwMTExMTAwOFowYDELMAkGA1UEBhMCVUsxHzAdBgNV$!$BAoMFkNvbmZpZ3VyZWQgVGhpbmdzIEx0ZC4xDTALBgNVBAsMBGN0eGQxDjAMBgNV$!$BAsMBVVzZXJzMREwDwYDVQQDDAhjdC1hZG1pbjBZMBMGByqGSM49AgEGCCqGSM49$!$AwEHA0IABCjZimd9RAx9mgCZqN/nulM9XbCW5LitXZEsB5q137/ni0oT+xP9++oN$!$thjf+ZHfqu17QxDYFH7ePBowqgSMvUajggFUMIIBUDCBjgYIKwYBBQUHAQEEgYEw$!$fzBFBggrBgEFBQcwAoY5aHR0cDovL2N0eGQtdXNlcnMtYWRtaW5zLWNhLmN0eGQv$!$Y3R4ZC11c2Vycy1hZG1pbnMtY2EuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2Nz$!$cC5jdHhkLXVzZXJzLWFkbWlucy1jYS5jdHhkOjkwODEwHwYDVR0jBBgwFoAUziKd$!$bNOAlDeXcUhjgD20RCV6hoMwDAYDVR0TAQH/BAIwADBKBgNVHR8EQzBBMD+gPaA7$!$hjlodHRwOi8vY3R4ZC11c2Vycy1hZG1pbnMtY2EuY3R4ZC9jdHhkLXVzZXJzLWFk$!$bWlucy1jYS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwIwDgYDVR0PAQH/BAQDAgeA$!$MB0GA1UdDgQWBBRkb39EsCNet9szaVNeBd7x3Pyx1jAKBggqhkjOPQQDAgNHADBE$!$AiAdEsPC7OHYro6q4gIUb4fczPjjrd7LU0WO8L8ieYzT2AIgOK8l1vDSO7DTcG8+$!$UNocCDsaTUX2mnhWXI4tZhJaRU8=$!$-----END CERTIFICATE-----$!$", "description": "Schemas/status.sfjs signed by ct-admin", "timestamp":"1717499334038", "timelimit":"0"}
+//sfTimestamp:1717499334038
+//sfLabel:Schemas/status.sfjs
 
 //
 // Schema Definition for a Status message
@@ -51,7 +51,7 @@ let
                     pipeline: {type: 'string'},
                     group: {type: 'string'},
                     domain: {type: 'string'},
-                    node: {type: 'array', items:{type: 'string'}},
+                    node: {type: 'string'},
                     timeout: {type: 'integer'}
                 },
                 additionalProperties: false,
